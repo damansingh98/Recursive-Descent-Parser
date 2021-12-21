@@ -24,7 +24,7 @@ class recDescent:
                            list(map((lambda x: x.strip().lower()), self.tokens)))) 
 
     
-    # validate() function will return True if the expression is valid, False    otherwise 
+    # validate() function will return True if the expression is valid, False otherwise 
     def validate(self):
         self.lex()
         return self.exp(0)[0]
