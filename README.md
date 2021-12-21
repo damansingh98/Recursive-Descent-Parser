@@ -1,3 +1,3 @@
 # Recursive Descent Parser
 
-Under certain set of grammar rules, the parser is designed and implemented using a recursive approach that outputs a boolean upon validation of an expression.  
+Under certain set of grammar rules, the parser is designed using a recursive approach that outputs a boolean value upon the successful validation of an expression.  
